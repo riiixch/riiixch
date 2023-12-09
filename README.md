@@ -2,7 +2,7 @@
 <div style="display: flex; flex-direction: row;">
   <a href="https://github.com/riiixch"><img src="https://komarev.com/ghpvc/?username=riiixch&style=for-the-badge&label=Profile+Views"></a>
   <a href="https://github.com/riiixch"><img src="https://img.shields.io/github/followers/riiixch?style=for-the-badge"></a>
-  <a href="https://profile.riiixch.com/"><img src="https://img.shields.io/badge/Website-techy.lol-blue?style=for-the-badge"></a>
+  <a href="https://profile.riiixch.com/"><img src="https://img.shields.io/badge/Website-RIIIXCH-blue?style=for-the-badge"></a>
 </td>
 <br><br>
 <p>I'm a full-stack software and web developer from the UK.</p>
