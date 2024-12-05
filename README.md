@@ -29,6 +29,12 @@ src="https://img.shields.io/github/followers/riiixch?logo=github&style=for-the-b
 
 <p align="center">
 <a href="http://www.github.com/riiixch">
+  <img src="https://github-profile-trophy.vercel.app/?username=riiixch"/>
+</a>
+</p>
+
+<p align="center">
+<a href="http://www.github.com/riiixch">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RIIIXCH&theme=dark&hide_border=false"/>
 </a>
 </p>
