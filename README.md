@@ -29,6 +29,12 @@ src="https://img.shields.io/github/followers/riiixch?logo=github&style=for-the-b
 
 <p align="center">
 <a href="http://www.github.com/riiixch">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RIIIXCH&theme=dark&hide_border=false"/>
+</a>
+</p>
+
+<p align="center">
+<a href="http://www.github.com/riiixch">
   <img src="https://github-readme-stats.vercel.app/api?username=RIIIXCH&include_all_commits=true&count_private=true&show_icons=true&title_color=6366f1&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=false&show_icons=true" alt="riiixch's GitHub stats" />
 </a>
 </p>
