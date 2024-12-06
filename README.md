@@ -29,12 +29,12 @@ src="https://img.shields.io/github/followers/riiixch?logo=github&style=for-the-b
 <b>My GitHub Stats</b>
 
 <p align="center">
-<a href="http://www.github.com/riiixch">
-  <img src="https://git-stats.riiixch.com/?username=RIIIXCH&include_all_commits=true&count_private=true&show_icons=true&title_color=6366f1&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=false&show_icons=true"/>
-</a>
-
 <a href="https://github.com/riiixch" align="left">
   <img src="https://git-stats.riiixch.com/top-langs/?username=RIIIXCH&include_all_commits=true&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=false&locale=en&custom_title=Top%20Languages&layout=compact"/>
+</a>
+
+<a href="http://www.github.com/riiixch">
+  <img src="https://git-stats.riiixch.com/?username=RIIIXCH&include_all_commits=true&count_private=true&show_icons=true&title_color=6366f1&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=false&show_icons=true"/>
 </a>
 
 <a href="http://www.github.com/riiixch">
