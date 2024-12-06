@@ -36,7 +36,6 @@ src="https://img.shields.io/github/followers/riiixch?logo=github&style=for-the-b
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIIIXCH&include_all_commits=true&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </a>
 </p>
-
 <p align="center">
 <a href="http://www.github.com/riiixch">
   <img src="https://github-profile-trophy.vercel.app/?username=RIIIXCH&theme=juicyfresh&row=2&column=3"/>
