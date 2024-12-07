@@ -42,6 +42,6 @@ src="https://img.shields.io/github/followers/riiixch?logo=github&style=for-the-b
 </a>
 
 <a href="http://www.github.com/riiixch">
-  <img src="https://git-stats.riiixch.com/top-langs/?username=RIIIXCH"/>
+  <img src="https://git-stats.riiixch.com/top-langs/?username=RIIIXCH&layout=compact"/>
 </a>
 </p>
