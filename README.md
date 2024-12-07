@@ -40,4 +40,8 @@ src="https://img.shields.io/github/followers/riiixch?logo=github&style=for-the-b
 <a href="http://www.github.com/riiixch">
   <img src="https://github-profile-trophy.vercel.app/?username=RIIIXCH&theme=juicyfresh&row=2&column=3"/>
 </a>
+
+<a href="http://www.github.com/riiixch">
+  <img src="https://git-stats.riiixch.com/top-langs/?username=RIIIXCH"/>
+</a>
 </p>
