@@ -73,7 +73,7 @@ Full Stack Developer
 
 <h3 align="left">My GitHub Stats</h3>
 <p align="center">
-<img src="https://git-stats.riiixch.com/?username=RIIIXCH&include_all_commits=true&count_private=true&show_icons=true&title_color=6366f1&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=false&hide=contribs"/>
-<img src="https://git-stats.riiixch.com/top-langs/?username=RIIIXCH&include_all_commits=true&count_private=true&layout=compact&title_color=6366f1&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=false&locale=en&custom_title=Top%20Languages"/>
-<img src="https://github-profile-trophy.vercel.app/?username=RIIIXCH&theme=juicyfresh&row=2&column=3"/>
+<img src="https://git-stats.riiixch.com/?username=RIIIXCH&include_all_commits=true&count_private=true&show_icons=true&title_color=6366f1&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=false&hide=contribs" height=160/>
+<img src="https://git-stats.riiixch.com/top-langs/?username=RIIIXCH&include_all_commits=true&count_private=true&layout=compact&title_color=6366f1&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=false&locale=en&custom_title=Top%20Languages" height=160/>
+<img src="https://github-profile-trophy.vercel.app/?username=RIIIXCH&theme=juicyfresh&row=2&column=3" height=240/>
 </p>
