@@ -34,7 +34,6 @@ Full Stack Developer
 <h3 align="left">Skills</h3>
 <p align="left">
 <img src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png" width=50 style="padding: 5px" alt="JavaScript"></img>
-<img src="https://img.icons8.com/?size=100&id=nCj4PvnCO0tZ&format=png" width=50 style="padding: 5px" alt="TypeScript"></img>
 <img src="https://img.icons8.com/?size=100&id=Pxe6MGswB8pX&format=png" width=50 style="padding: 5px" alt="EJS"></img>
 <img src="https://img.icons8.com/?size=100&id=ylXrZF2zxsFE&format=png" width=50 style="padding: 5px" alt="PHP"></img>
 <img src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png" width=50 style="padding: 5px" alt="Python"></img>
