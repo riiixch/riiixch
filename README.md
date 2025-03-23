@@ -45,7 +45,6 @@ Full Stack Developer
 <img src="https://img.icons8.com/?size=100&id=v8RpPQUwv0N8&format=png" width=50 style="padding: 5px" alt="HTML"></img>
 <img src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png" width=50 style="padding: 5px" alt="CSS"></img>
 <img src="https://img.icons8.com/?size=100&id=g9mmSxx3SwAI&format=png" width=50 style="padding: 5px" alt="Bootstrap CSS"></img>
-<img src="https://img.icons8.com/?size=100&id=x7XMNGh2vdqA&format=png" width=50 style="padding: 5px" alt="Tailwind CSS"></img>
 <img src="https://img.icons8.com/?size=100&id=pCvIfmctRaY8&format=png" width=50 style="padding: 5px" alt="Flutter"></img>
 <img src="https://img.icons8.com/?size=100&id=dzfo6UeXW9h7&format=png" width=50 style="padding: 5px" alt="Vuejs"></img>
 <img src="https://img.icons8.com/?size=100&id=HKNzD81eiiSc&format=png" width=50 style="padding: 5px" alt="jQuery"></img>
