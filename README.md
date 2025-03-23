@@ -34,7 +34,6 @@ Full Stack Developer
 <h3 align="left">Skills</h3>
 <p align="left">
 <img src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png" width=50 style="padding: 5px" alt="JavaScript"></img>
-<img src="https://img.icons8.com/?size=100&id=Pxe6MGswB8pX&format=png" width=50 style="padding: 5px" alt="EJS"></img>
 <img src="https://img.icons8.com/?size=100&id=ylXrZF2zxsFE&format=png" width=50 style="padding: 5px" alt="PHP"></img>
 <img src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png" width=50 style="padding: 5px" alt="Python"></img>
 <img src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png" width=50 style="padding: 5px" alt="Java"></img>
@@ -42,6 +41,7 @@ Full Stack Developer
 <img src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png" width=50 style="padding: 5px" alt="C"></img>
 <img src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png" width=50 style="padding: 5px" alt="C++"></img>
 <img src="https://img.icons8.com/?size=100&id=45490&format=png" width=50 style="padding: 5px" alt="C#"></img>
+<img src="https://img.icons8.com/?size=100&id=Pxe6MGswB8pX&format=png" width=50 style="padding: 5px" alt="EJS"></img>
 <img src="https://img.icons8.com/?size=100&id=v8RpPQUwv0N8&format=png" width=50 style="padding: 5px" alt="HTML"></img>
 <img src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png" width=50 style="padding: 5px" alt="CSS"></img>
 <img src="https://img.icons8.com/?size=100&id=g9mmSxx3SwAI&format=png" width=50 style="padding: 5px" alt="Bootstrap CSS"></img>
