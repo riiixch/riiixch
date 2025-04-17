@@ -64,7 +64,7 @@ Full Stack Developer
 <img src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png" width=50 style="padding: 5px" alt="Visual Studio Community"></img>
 <img src="https://img.icons8.com/?size=100&id=67169&format=png" width=50 style="padding: 5px" alt="Notepad++"></img>
 <img src="https://img.icons8.com/?size=100&id=20906&format=png" width=50 style="padding: 5px" alt="Git"></img>
-<img src="https://img.icons8.com/?size=100&id=W864KQKLKmWj&format=png&color=ffffff" width=50 style="padding: 5px; background: white; border-radius: 50%;" alt="Grok AI"></img>
+<img src="https://img.icons8.com/?size=100&id=W864KQKLKmWj&format=png" width=50 style="padding: 5px; background: white; border-radius: 50%;" alt="Grok AI"></img>
 <img src="https://img.icons8.com/?size=100&id=ka3InxFU3QZa&format=png" width=50 style="padding: 5px" alt="ChatGPT AI"></img>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThr7qrIazsvZwJuw-uZCtLzIjaAyVW_ZrlEQ&s" width=50 style="padding: 5px" alt="Google Gemini AI"></img>
 <img src="https://img.icons8.com/?size=100&id=PxQoyT1s0uFh&format=png" width=50 style="padding: 5px" alt="Microsoft Copilot AI"></img>
