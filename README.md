@@ -50,7 +50,7 @@ Full Stack Developer
 <img src="https://img.icons8.com/?size=100&id=dzfo6UeXW9h7&format=png" width=50 style="padding: 5px" alt="Vuejs"></img>
 <img src="https://img.icons8.com/?size=100&id=HKNzD81eiiSc&format=png" width=50 style="padding: 5px" alt="jQuery"></img>
 <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png" width=50 style="padding: 5px" alt="Figma"></img>
-<img src="https://img.icons8.com/?size=100&id=aqb9SdV9P8oC&format=png" width=50 style="padding: 5px" alt="Prisma"></img>
+<img src="https://img.icons8.com/?size=100&id=aqb9SdV9P8oC&format=png&color=ffffff" width=50 style="padding: 5px" alt="Prisma"></img>
 <img src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png" width=50 style="padding: 5px" alt="MongoDB"></img>
 <img src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png" width=50 style="padding: 5px" alt="MySQL"></img>
 <img src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png" width=50 style="padding: 5px" alt="Microsoft SQL Server"></img>
