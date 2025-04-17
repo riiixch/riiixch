@@ -34,6 +34,7 @@ Full Stack Developer
 <h3 align="left">Skills</h3>
 <p align="left">
 <img src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png" width=50 style="padding: 5px" alt="JavaScript"></img>
+<img src="https://img.icons8.com/?size=100&id=nCj4PvnCO0tZ&format=png" width=50 style="padding: 5px" alt="TypeScript"></img>
 <img src="https://img.icons8.com/?size=100&id=ylXrZF2zxsFE&format=png" width=50 style="padding: 5px" alt="PHP"></img>
 <img src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png" width=50 style="padding: 5px" alt="Python"></img>
 <img src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png" width=50 style="padding: 5px" alt="Java"></img>
@@ -49,6 +50,7 @@ Full Stack Developer
 <img src="https://img.icons8.com/?size=100&id=dzfo6UeXW9h7&format=png" width=50 style="padding: 5px" alt="Vuejs"></img>
 <img src="https://img.icons8.com/?size=100&id=HKNzD81eiiSc&format=png" width=50 style="padding: 5px" alt="jQuery"></img>
 <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png" width=50 style="padding: 5px" alt="Figma"></img>
+<img src="https://img.icons8.com/?size=100&id=aqb9SdV9P8oC&format=png" width=50 style="padding: 5px" alt="Prisma"></img>
 <img src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png" width=50 style="padding: 5px" alt="MongoDB"></img>
 <img src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png" width=50 style="padding: 5px" alt="MySQL"></img>
 <img src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png" width=50 style="padding: 5px" alt="Microsoft SQL Server"></img>
