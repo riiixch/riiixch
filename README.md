@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Venom&height=300&color=gradient&text=RIIIXCH&fontColor=000000&fontSize=100&stroke=a78bfa&strokeWidth=3)
+![header](https://capsule-render.vercel.app/api?type=Venom&height=200&color=gradient&text=RIIIXCH&fontColor=000000&fontSize=100&stroke=a78bfa&strokeWidth=3)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sompop Iemsombat
 ========================================================================================================================================
