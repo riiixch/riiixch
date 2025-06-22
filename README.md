@@ -7,7 +7,7 @@ Full Stack Developer
 ---------------------------------------
 
 * 🌍  I'm based in Chachoengsao, Thailand
-* 🖥️  See my portfolio at [My profile](http://profile.riiixch.com/)
+* 🖥️  See my portfolio at [My web profile](http://profile.riiixch.com/)
 * ✉️  You can contact me at [sompop@riiixch.com](mailto:sompop@riiixch.com)
 
 <a href="https://www.github.com/riiixch" target="_blank" rel="noreferrer">
