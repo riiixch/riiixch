@@ -51,7 +51,6 @@ Full Stack Developer
 <img src="https://img.icons8.com/?size=300&id=pCvIfmctRaY8&format=png" width=55 style="padding: 6px; background: #000000;  border-radius: 50%;" alt="Flutter"></img>
 <img src="https://img.icons8.com/?size=300&id=dzfo6UeXW9h7&format=png" width=55 style="padding: 6px; background: #000000;  border-radius: 50%;" alt="Vue.js"></img>
 <img src="https://img.icons8.com/?size=300&id=nvrsJYs7j9Vb&format=png" width=55 style="padding: 6px; background: #000000;  border-radius: 50%;" alt="Nuxt.js"></img>
-<img src="https://img.icons8.com/?size=300&id=MWiBjkuHeMVq&format=png" width=55 style="padding: 6px; background: #000000;  border-radius: 50%;" alt="Next.js"></img>
 <img src="https://img.icons8.com/?size=300&id=HKNzD81eiiSc&format=png" width=55 style="padding: 6px; background: #000000;  border-radius: 50%;" alt="jQuery"></img>
 <img src="https://img.icons8.com/?size=300&id=zfHRZ6i1Wg0U&format=png" width=55 style="padding: 6px; background: #000000;  border-radius: 50%;" alt="Figma"></img>
 <img src="https://img.icons8.com/?size=300&id=aqb9SdV9P8oC&format=png&color=ffffff" width=55 style="padding: 6px; background: #000000;  border-radius: 50%;" alt="Prisma"></img>
