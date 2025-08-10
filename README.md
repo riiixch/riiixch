@@ -85,5 +85,6 @@ Full-Stack Developer | DevOps | Server Admin | Network Engineer | IT Consultant
 </a>
 
 <img src="https://github-profile-trophy.vercel.app/?username=RIIIXCH&theme=juicyfresh&row=2&column=4"/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=riiixch&theme=dark&date_format=j%2Fn%5B%2FY%5D)](https://streak-stats.demolab.com?user=riiixch&theme=dark&date_format=j%2Fn%5B%2FY%5D)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=riiixch&theme=dark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 </p>
