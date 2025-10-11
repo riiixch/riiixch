@@ -10,25 +10,31 @@ Full-Stack Developer | DevOps | Server Admin | Network Engineer | IT Consultant
 * 🖥️  See my portfolio at [My web profile](http://profile.riiixch.com/)
 * ✉️  You can contact me at [sompop@riiixch.com](mailto:sompop@riiixch.com)
 
+<a href="https://wakatime.com/@ec16bb68-99a8-498e-a142-11445c8598eb">
+<img src="https://wakatime.com/badge/user/ec16bb68-99a8-498e-a142-11445c8598eb.svg" alt="Total time coded since Aug 8 2025" style="height: 24px" />
+</a>
 <a href="https://www.github.com/riiixch" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/github/followers/riiixch?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917"/>
+<img src="https://img.shields.io/github/followers/riiixch?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" style="height: 24px" />
 </a>
 
 <h3 align="left">Socials</h3>
 <p align="left">
-<a href="https://discord.com/users/240449032655339532" target="_blank">
+<a href="https://discord.com/users/240449032655339532" target="_blank" style="text-decoration: none;">
 <img src="https://img.icons8.com/?size=100&id=2mIgusGquJFz&format=png" width=55 style="padding: 6px; background: #000000;  border-radius: 50%;" alt="Discord"></img>
 </a>
-<a href="https://www.facebook.com/profile.php?id=100014941601002" target="_blank">
+<a href="https://www.linkedin.com/in/riiixch/" target="_blank" style="text-decoration: none;">
+<img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png" width=55 style="padding: 6px; background: #000000;  border-radius: 50%;" alt="YouTube"></img>
+</a>
+<a href="https://www.facebook.com/profile.php?id=100014941601002" target="_blank" style="text-decoration: none;">
 <img src="https://img.icons8.com/?size=100&id=yGcWL8copNNQ&format=png" width=55 style="padding: 6px; background: #000000;  border-radius: 50%;" alt="Facebook"></img>
 </a>
-<a href="https://www.instagram.com/riiixch/" target="_blank">
+<a href="https://www.instagram.com/riiixch/" target="_blank" style="text-decoration: none;">
 <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png" width=55 style="padding: 6px; background: #000000;  border-radius: 50%;" alt="IG"></img>
 </a>
-<a href="https://line.me/ti/p/kmeC3YpYMu" target="_blank">
+<a href="https://line.me/ti/p/kmeC3YpYMu" target="_blank" style="text-decoration: none;">
 <img src="https://img.icons8.com/?size=100&id=0ZWDaCvmIF4I&format=png" width=55 style="padding: 6px; background: #000000;  border-radius: 50%;" alt="Line"></img>
 </a>
-<a href="https://www.youtube.com/@RIIIXCHMrsompopYT" target="_blank">
+<a href="https://www.youtube.com/@RIIIXCHMrsompopYT" target="_blank" style="text-decoration: none;">
 <img src="https://img.icons8.com/?size=100&id=9a46bTk3awwI&format=png" width=55 style="padding: 6px; background: #000000;  border-radius: 50%;" alt="YouTube"></img>
 </a>
 </p>
