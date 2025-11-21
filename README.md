@@ -69,6 +69,8 @@ Full-Stack Developer | DevOps | Server Admin | Network Engineer | IT Consultant
 <img src="https://img.icons8.com/?size=300&id=t2x6DtCn5Zzx&format=png" width=55 style="padding: 6px; background: #000000;  border-radius: 50%;" alt="Nginx"></img>
 <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" width=55 style="padding: 6px; background: #000000;  border-radius: 50%;" alt="Expressjs"></img>
 <img src="https://icon.icepanel.io/Technology/svg/Discord.js.svg" width=55 style="padding: 6px; background: #000000;  border-radius: 50%;" alt="Discordjs"></img>
+<img src="https://img.icons8.com/?size=300&id=22813&format=png" width=55 style="padding: 6px; background: #000000;  border-radius: 50%;" alt="Docker"></img>
+<img src="https://img.icons8.com/?size=300&id=53iFar0HpEW9&format=png" width=55 style="padding: 6px; background: #000000;  border-radius: 50%;" alt="Proxmox"></img>
 <img src="https://img.icons8.com/?size=300&id=108792&format=png" width=55 style="padding: 6px; background: #000000;  border-radius: 50%;" alt="Windows"></img>
 <img src="https://img.icons8.com/?size=300&id=63208&format=png" width=55 style="padding: 6px; background: #000000;  border-radius: 50%;" alt="Ubuntu"></img>
 <img src="https://img.icons8.com/?size=300&id=0OQR1FYCuA9f&format=png" width=55 style="padding: 6px; background: #000000;  border-radius: 50%;" alt="Visual Studio Code"></img>
