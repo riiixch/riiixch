@@ -94,8 +94,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://git-stats.riiixch.com/?username=riiixch&include_all_commits=true&show_icons=true&theme=midnight-purple" alt="GitHub Stats" style="margin-bottom: 65px;" />
-<img src="https://git-stats.riiixch.com/top-langs/?username=RIIIXCH&include_all_commits=true&count_private=true&layout=compact&custom_title=Top%20Used%20Languages&langs_count=20&theme=midnight-purple" alt="Top Languages" />
+<img src="https://git-stats.riiixch.com/api?username=riiixch&include_all_commits=true&show_icons=true&theme=midnight-purple" alt="GitHub Stats" style="margin-bottom: 65px;" />
+<img src="https://git-stats.riiixch.com/api/top-langs/?username=RIIIXCH&include_all_commits=true&count_private=true&layout=compact&custom_title=Top%20Used%20Languages&langs_count=20&theme=midnight-purple" alt="Top Languages" />
 </div>
 <br/>
 <div align="center">
