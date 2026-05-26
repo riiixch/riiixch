@@ -19,8 +19,8 @@
 * 🌍 I'm based in **Chachoengsao, Thailand**
 * 🏢 Currently working as an **IT Consultant** and **Freelance Developer**
 * 🚀 Building full-stack web applications, scalable Discord bot architectures, and e-commerce systems
-* 🖥️ See my portfolio at **[profile.riiixch.com](http://profile.riiixch.com/)**
-* ✉️ Contact me at **[sompop@riiixch.com](mailto:sompop@riiixch.com)**
+* 🖥️ See **[my portfolio](http://profile.riiixch.com/)**
+* ✉️ Contact me at **[email](mailto:sompop@riiixch.com)**
 
 <div align="center">
   <a href="https://discord.com/users/240449032655339532" target="_blank"><img src="https://img.icons8.com/?size=100&id=2mIgusGquJFz&format=png" width="50" alt="Discord"/></a>
