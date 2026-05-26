@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=Venom&height=150&color=gradient&text=RIIIXCH&fontColor=000000&fontSize=100&stroke=a78bfa&strokeWidth=3" alt="header" />
   
   <h1>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"/> My name is Sompop Iemsombat</h1>
-  <p><b>Full-Stack Developer | DevOps | Server Admin | Network Engineer | IT Consultant</b></p>
+  <p><b>Full-Stack Developer | AI-Augmented Developer | DevOps | Server Admin | Network Engineer | Prompt Engineer | IT Consultant</b></p>
 
   <a href="https://wakatime.com/@ec16bb68-99a8-498e-a142-11445c8598eb">
     <img src="https://wakatime.com/badge/user/ec16bb68-99a8-498e-a142-11445c8598eb.svg" alt="Total time coded since Aug 8 2025" style="height: 24px" />
