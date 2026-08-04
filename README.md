@@ -16,11 +16,15 @@
 
 ### 👨‍💻 About Me
 
-* 🌍 I'm based in **Chachoengsao, Thailand**
-* 🏢 Currently working as an **IT Consultant** and **Freelance Developer**
-* 🚀 Building full-stack web applications, scalable Discord bot architectures, and e-commerce systems
-* 🖥️ See **[my portfolio](http://profile.riiixch.com/)**
-* ✉️ Contact me at **[email](mailto:sompop@riiixch.com)**
+> **IT Consultant & Full-Stack / DevOps Engineer** specializing in modern web ecosystems, cloud infrastructure, and automated system orchestration.
+
+* 🌍 **Location:** Bangkok, Thailand
+* 💼 **Focus Areas:** 
+  * 🌐 **Web & System Development:** Nuxt.js, Node.js, Express, REST/GraphQL APIs
+  * 🖧 **DevOps & Infrastructure:** Proxmox VE, Docker, Nginx, OPNsense, Cloudflare Orchestration
+  * 🤖 **Automation & Bots:** Multi-instance Discord bots with Redis session sync
+* 🖥️ **Portfolio:** [profile.riiixch.com](http://profile.riiixch.com/)
+* ✉️ **Contact:** [sompop@riiixch.com](mailto:sompop@riiixch.com)
 
 <div align="center">
   <a href="https://discord.com/users/240449032655339532" target="_blank"><img src="https://img.icons8.com/?size=100&id=2mIgusGquJFz&format=png" width="50" alt="Discord"/></a>
@@ -73,11 +77,12 @@
 <img src="https://img.icons8.com/?size=300&id=22813&format=png" width="50" alt="Docker"/>
 <img src="https://img.icons8.com/?size=300&id=t2x6DtCn5Zzx&format=png" width="50" alt="Nginx"/>
 <img src="https://img.icons8.com/?size=300&id=fUGx53gD9Jof&format=png" width="50" alt="Cloudflare"/>
+<img src="https://tailscale.gallerycdn.vsassets.io/extensions/tailscale/vscode-tailscale/1.1.0/1759776117386/Microsoft.VisualStudio.Services.Icons.Default" width="50" alt="Tailscale"/>
 
 **AI, Tools & Others:**<br/>
 <img src="https://img.icons8.com/?size=300&id=20906&format=png" width="50" alt="Git"/>
 <img src="https://icon.icepanel.io/Technology/svg/Discord.js.svg" width="50" alt="Discordjs"/>
-<img src="https://files.svgcdn.io/logos/google-gemini.svg" width="50" alt="Google Gemini AI"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Google_Gemini_icon_2025.svg/500px-Google_Gemini_icon_2025.svg.png" width="50" alt="Google Gemini AI"/>
 <img src="https://img.icons8.com/?size=300&id=zQjzFjPpT2Ek&format=png" width="50" alt="Claude AI"/>
 <img src="https://img.icons8.com/?size=300&id=ka3InxFU3QZa&format=png" width="50" alt="ChatGPT AI"/>
 <img src="https://img.icons8.com/?size=300&id=THRPlyXrzBJk&format=png" width="50" alt="Deepseek AI"/>
@@ -85,9 +90,31 @@
 <img src="https://img.icons8.com/?size=300&id=SvMVhUPAeXkz&format=png&color=ffffff" width="50" style="background: #000; border-radius: 8px;" alt="Grok AI"/>
 <img src="https://img.icons8.com/?size=300&id=zfHRZ6i1Wg0U&format=png" width="50" alt="Figma"/>
 <img src="https://img.icons8.com/?size=300&id=0OQR1FYCuA9f&format=png" width="50" alt="VS Code"/>
-<img src="https://antigravity.google/assets/image/antigravity-logo.png" height="50" alt="Antigravity"/>
+<img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.png" height="50" alt="Antigravity"/>
+<img src="https://cdn.prod.website-files.com/641dbcef477f73480e723aa5/68cc2be21b963a543d274d01_n8n%20logo.png" height="50" alt="n8n"/>
 
+---
 
+### 🖥️ Hardware & Network Infrastructure
+
+| Node Name | Role / Description | Status | Response |
+| :--- | :--- | :---: | :---: |
+| 🖧 **DDC XEON Server** | Physical Compute Node | ![Status](https://uptime.riiixch.com/api/badge/4/status) | ![Ping](https://uptime.riiixch.com/api/badge/4/ping) |
+| 🛡️ **DDC Firewall** | Edge Router & Firewall | ![Status](https://uptime.riiixch.com/api/badge/12/status) | ![Ping](https://uptime.riiixch.com/api/badge/12/ping) |
+
+### ⚡ Active Virtual Instances
+
+| Virtual Machine | Environment / Workload | Status | Response | Uptime |
+| :--- | :--- | :---: | :---: | :---: |
+| 🚀 **VM Core System** | Web Apps & Reverse Proxy | ![Status](https://uptime.riiixch.com/api/badge/1/status) | ![Ping](https://uptime.riiixch.com/api/badge/1/ping) | ![Uptime](https://uptime.riiixch.com/api/badge/1/uptime) |
+| 🗄️ **VM Database System** | Database & Cache Store | ![Status](https://uptime.riiixch.com/api/badge/2/status) | ![Ping](https://uptime.riiixch.com/api/badge/2/ping) | ![Uptime](https://uptime.riiixch.com/api/badge/2/uptime) |
+| 🤖 **VM Discord System** | Discord Bot Services | ![Status](https://uptime.riiixch.com/api/badge/3/status) | ![Ping](https://uptime.riiixch.com/api/badge/3/ping) | ![Uptime](https://uptime.riiixch.com/api/badge/3/uptime) |
+
+<p align="center">
+  <a href="https://uptime.riiixch.com" target="_blank">
+    <img src="https://img.shields.io/badge/View_Full_Status_Page-13B576?style=for-the-badge&logo=uptime-kuma&logoColor=white" alt="Live Status Page" />
+  </a>
+</p>
 
 ---
 
