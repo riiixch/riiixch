@@ -63,6 +63,7 @@
 **Backend & Database:**<br/>
 <img src="https://img.icons8.com/?size=300&id=54087&format=png" width="50" alt="Nodejs"/>
 <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" width="50" alt="Expressjs"/>
+<img src="https://img.icons8.com/?size=100&id=OrZMxhqm7nsr&format=png" width="50" alt="Apache"/>
 <img src="https://img.icons8.com/?size=300&id=aqb9SdV9P8oC&format=png&color=ffffff" width="50" style="background: #000; border-radius: 8px;" alt="Prisma"/>
 <img src="https://img.icons8.com/?size=300&id=38561&format=png" width="50" alt="PostgreSQL"/>
 <img src="https://img.icons8.com/?size=300&id=9nLaR5KFGjN0&format=png" width="50" alt="MySQL"/>
